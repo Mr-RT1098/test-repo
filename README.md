@@ -1,4 +1,4 @@
 # test-repo
-<h1>My First Git Repository</h1>
+<h6>My First Git Repository</h6>
 <br>
 Author-RT
